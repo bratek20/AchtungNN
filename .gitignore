@@ -34,3 +34,5 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+UnityProject/Assets/ML-Agents/Plugins/Computer/
+UnityProject/Assets/ML-Agents/Plugins/ProtoBuffer/
