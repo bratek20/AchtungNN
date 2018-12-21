@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+[RequireComponent(typeof(CircleCollider2D))]
 public class DotHead : MonoBehaviour
 {
     private const int TURN_LEFT_SHIFT = 1;
@@ -18,7 +19,19 @@ public class DotHead : MonoBehaviour
 
     private float curTurnTime = 0f;
     private int turnShift = 0;
-    private Vector2 direction = Vector2.up;
+    private Vector2 direction = Vector3.up;
+
+    public bool Killed { private set; get; }
+
+    public void Init(Vector2 initPos)
+    {
+        transform.position = new Vector3(initPos.x ,initPos.y, -1);
+        curTurnTime = 0f;
+        turnShift = 0;
+        direction = Random.insideUnitCircle.normalized;
+        Killed = false;
+        tail.Init();
+    }
 
     public void TurnLeft()
     {
@@ -32,6 +45,11 @@ public class DotHead : MonoBehaviour
 	
 	void Update ()
     {
+        if(Killed)
+        {
+            return;
+        }
+
         curTurnTime += Time.deltaTime;
         if(curTurnTime > turnApplyTime)
         {
@@ -55,5 +73,6 @@ public class DotHead : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
+        Killed = true;
     }
 }

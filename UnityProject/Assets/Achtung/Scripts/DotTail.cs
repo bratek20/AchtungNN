@@ -10,7 +10,7 @@ public class DotTail : MonoBehaviour
     [SerializeField]
     private float minPointsDist = 0.15f;
     [SerializeField]
-    private CircleCollider2D headCol;
+    private CircleCollider2D dotCol;
 
     private LineRenderer line;
     private EdgeCollider2D edges;
@@ -23,10 +23,18 @@ public class DotTail : MonoBehaviour
         edges = GetComponent<EdgeCollider2D>();
     }
 
+    public void Init()
+    {
+        points.Clear();
+        waitPoints.Clear();
+        line.positionCount = 0;
+        edges.points = points.ToArray();
+    }
+
     public void AddPoint(Vector2 point)
     {
         waitPoints.Enqueue(point);
-        while(waitPoints.Count > 0 && !headCol.OverlapPoint(waitPoints.Peek()))
+        while(waitPoints.Count > 0 && !dotCol.OverlapPoint(waitPoints.Peek()))
         {
             InternalAddPoint(waitPoints.Dequeue());
         }

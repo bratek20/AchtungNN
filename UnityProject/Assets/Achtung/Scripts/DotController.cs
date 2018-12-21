@@ -5,18 +5,19 @@ using UnityEngine;
 public class DotController : MonoBehaviour {
 
     [SerializeField]
-    private float sensivity = 0.2f;
+    private string leftKey;
+    [SerializeField]
+    private string rightKey;
     [SerializeField]
     private DotHead dot;
 
 	void Update ()
-    {
-        float horizontal = Input.GetAxisRaw("Horizontal");
-        if(horizontal < -sensivity)
+    {    
+        if(Input.GetKey(leftKey))
         {
             dot.TurnLeft();
         }
-        else if(horizontal > sensivity)
+        else if(Input.GetKey(rightKey))
         {
             dot.TurnRight();
         }

@@ -53,10 +53,10 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4438249086341450}
-  - component: {fileID: 114989835964267346}
+  - component: {fileID: 114064930259127924}
   - component: {fileID: 212113926087232660}
-  - component: {fileID: 58163617489805370}
-  - component: {fileID: 50901987906908114}
+  - component: {fileID: 58337245260672842}
+  - component: {fileID: 50392040765221518}
   m_Layer: 0
   m_Name: Head
   m_TagString: Untagged
@@ -105,7 +105,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!50 &50901987906908114
+--- !u!50 &50392040765221518
 Rigidbody2D:
   serializedVersion: 4
   m_ObjectHideFlags: 1
@@ -125,7 +125,7 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
---- !u!58 &58163617489805370
+--- !u!58 &58337245260672842
 CircleCollider2D:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
@@ -139,7 +139,7 @@ CircleCollider2D:
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
-  m_Radius: 0.09
+  m_Radius: 0.095
 --- !u!68 &68285312008582200
 EdgeCollider2D:
   m_ObjectHideFlags: 1
@@ -155,6 +155,21 @@ EdgeCollider2D:
   m_Offset: {x: 0, y: 0}
   m_EdgeRadius: 0
   m_Points: []
+--- !u!114 &114064930259127924
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1995121360388928}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75d6e6f91b1d9404fafb008919622a67, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  turnForce: 1
+  turnApplyTime: 0
+  speed: 5
+  tail: {fileID: 114404149483855192}
 --- !u!114 &114404149483855192
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -167,7 +182,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minPointsDist: 0.2
-  headCol: {fileID: 58163617489805370}
+  dotCol: {fileID: 58337245260672842}
 --- !u!114 &114405312421953422
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -179,23 +194,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2784f24ab6076c642a71f758b4374d27, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sensivity: 0.15
-  dot: {fileID: 114989835964267346}
---- !u!114 &114989835964267346
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1995121360388928}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 75d6e6f91b1d9404fafb008919622a67, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  turnForce: 0.5
-  turnApplyTime: 0
-  speed: 5
-  tail: {fileID: 114404149483855192}
+  leftKey: left
+  rightKey: right
+  dot: {fileID: 114064930259127924}
 --- !u!120 &120693438865275520
 LineRenderer:
   m_ObjectHideFlags: 1
