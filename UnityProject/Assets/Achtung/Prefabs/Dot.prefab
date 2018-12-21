@@ -166,7 +166,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 75d6e6f91b1d9404fafb008919622a67, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  turnForce: 1
+  turnForce: 0.75
   turnApplyTime: 0
   speed: 5
   tail: {fileID: 114404149483855192}

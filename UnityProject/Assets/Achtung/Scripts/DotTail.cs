@@ -23,11 +23,13 @@ public class DotTail : MonoBehaviour
         edges = GetComponent<EdgeCollider2D>();
     }
 
-    public void Init()
+    public void Init(Color lineColor)
     {
         points.Clear();
         waitPoints.Clear();
         line.positionCount = 0;
+        line.startColor = lineColor;
+        line.endColor = lineColor;
         edges.points = points.ToArray();
     }
 

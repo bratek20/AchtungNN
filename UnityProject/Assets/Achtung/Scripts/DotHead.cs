@@ -15,6 +15,8 @@ public class DotHead : MonoBehaviour
     [SerializeField]
     private float speed = 5f;
     [SerializeField]
+    private DotConfig config;
+    [SerializeField]
     private DotTail tail;
 
     private float curTurnTime = 0f;
@@ -30,7 +32,7 @@ public class DotHead : MonoBehaviour
         turnShift = 0;
         direction = Random.insideUnitCircle.normalized;
         Killed = false;
-        tail.Init();
+        tail.Init(config.color);
     }
 
     public void TurnLeft()

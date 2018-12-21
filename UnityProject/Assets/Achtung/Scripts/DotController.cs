@@ -5,19 +5,17 @@ using UnityEngine;
 public class DotController : MonoBehaviour {
 
     [SerializeField]
-    private string leftKey;
-    [SerializeField]
-    private string rightKey;
+    private DotConfig config;
     [SerializeField]
     private DotHead dot;
 
 	void Update ()
     {    
-        if(Input.GetKey(leftKey))
+        if(Input.GetKey(config.leftKey))
         {
             dot.TurnLeft();
         }
-        else if(Input.GetKey(rightKey))
+        else if(Input.GetKey(config.rightKey))
         {
             dot.TurnRight();
         }
