@@ -13,6 +13,10 @@ public class DotHead : MonoBehaviour
     [SerializeField]
     private float turnApplyTime = 0f;
     [SerializeField]
+    private float gapApplyTime = 3f;
+    [SerializeField]
+    private float gapRandomOffset = 2f;
+    [SerializeField]
     private float speed = 5f;
     [SerializeField]
     private DotConfig config;
@@ -20,6 +24,7 @@ public class DotHead : MonoBehaviour
     private DotTail tail;
 
     private float curTurnTime = 0f;
+    private float makeGapTime = 0f; 
     private int turnShift = 0;
     private Vector2 direction = Vector3.up;
 
@@ -27,12 +32,13 @@ public class DotHead : MonoBehaviour
 
     public void Init(Vector2 initPos)
     {
-        transform.position = new Vector3(initPos.x ,initPos.y, -1);
+        transform.position = new Vector3(initPos.x, initPos.y, -1);
         curTurnTime = 0f;
         turnShift = 0;
         direction = Random.insideUnitCircle.normalized;
         Killed = false;
         tail.Init(config.color);
+        CalculateGapTime();
     }
 
     public void TurnLeft()
@@ -58,7 +64,19 @@ public class DotHead : MonoBehaviour
             ApplyTurn(curTurnTime);
             curTurnTime = 0f;
         }
+
+        makeGapTime -= Time.deltaTime;
+        if(makeGapTime < 0)
+        {
+            tail.MakeGap();
+            CalculateGapTime();
+        }
 	}
+
+    private void CalculateGapTime()
+    {
+        makeGapTime = gapApplyTime + Random.Range(0, gapRandomOffset);
+    }
 
     private void ApplyTurn(float dt)
     {

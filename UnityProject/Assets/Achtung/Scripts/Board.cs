@@ -46,7 +46,7 @@ public class Board : MonoBehaviour {
 
         foreach (var dot in dots)
         {
-            dot.Init(Random.insideUnitCircle * size);
+            dot.Init(Random.insideUnitCircle * size * 0.8f);
         }
     }
 
