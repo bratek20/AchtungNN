@@ -149,7 +149,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 75d6e6f91b1d9404fafb008919622a67, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  turnForce: 0.75
+  turnForce: 50
   turnApplyTime: 0
   gapApplyTime: 3
   gapRandomOffset: 2
@@ -168,7 +168,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minPointsDist: 0.15
-  minGapSize: 5
+  minGapSize: 15
   dotCol: {fileID: 58337245260672842}
   linePartPrefab: {fileID: 1740791629214616, guid: 4936c62c9db854f40b7d353fe1dc43b5,
     type: 2}

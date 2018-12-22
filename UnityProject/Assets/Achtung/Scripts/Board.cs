@@ -5,6 +5,8 @@ using UnityEngine;
 public class Board : MonoBehaviour {
 
     [SerializeField]
+    private bool autoReset = true;
+    [SerializeField]
     private float size = 5f;
     [SerializeField]
     private GameObject wallPrefab;
@@ -12,6 +14,8 @@ public class Board : MonoBehaviour {
     private DotHead[] dots;
 
     private GameObject[] walls;
+
+    public bool AllKilled { get; private set; }
 
     private void Start()
     {
@@ -48,6 +52,7 @@ public class Board : MonoBehaviour {
         {
             dot.Init(Random.insideUnitCircle * size * 0.8f);
         }
+        AllKilled = false;
     }
 
     private void Update()
@@ -57,10 +62,11 @@ public class Board : MonoBehaviour {
         {
             allKilled  = allKilled && dot.Killed;
         }
-        if(allKilled)
+
+        AllKilled = allKilled;
+        if(allKilled && autoReset)
         {
             Init();
         }
-
     }
 }

@@ -24,7 +24,7 @@ public class DotHead : MonoBehaviour
     private DotTail tail;
 
     private float curTurnTime = 0f;
-    private float makeGapTime = 0f; 
+    private float makeGapTime = 0f;
     private int turnShift = 0;
     private Vector2 direction = Vector3.up;
 
@@ -43,47 +43,75 @@ public class DotHead : MonoBehaviour
 
     public void TurnLeft()
     {
-        turnShift = TURN_LEFT_SHIFT;    
+        turnShift = TURN_LEFT_SHIFT;
     }
-    
+
     public void TurnRight()
     {
         turnShift = TURN_RIGHT_SHIFT;
     }
-	
-	void Update ()
+
+    private float RaycastDist(Vector2 dir)
     {
-        if(Killed)
+        var hit = Physics2D.Raycast(transform.position, dir);
+        float dist = Vector2.Distance(hit.point, transform.position);
+        //Debug.Log(dist);
+        return dist;
+    }
+
+    public List<float> GetDistsToObstacles(int samples, float angleStep)
+    {
+        List<float> dists = new List<float>();
+        dists.Add(RaycastDist(direction));
+        for (int i = 1; i <= samples; i++)
+        {
+            float angle = angleStep * i;
+            dists.Add(RaycastDist(RotateVector(direction, angle)));
+            dists.Add(RaycastDist(RotateVector(direction, -angle)));
+        }
+        return dists;
+    }
+
+    void Update()
+    {
+        if (Killed)
         {
             return;
         }
 
         curTurnTime += Time.deltaTime;
-        if(curTurnTime > turnApplyTime)
+        if (curTurnTime > turnApplyTime)
         {
             ApplyTurn(curTurnTime);
             curTurnTime = 0f;
         }
 
         makeGapTime -= Time.deltaTime;
-        if(makeGapTime < 0)
+        if (makeGapTime < 0)
         {
             tail.MakeGap();
             CalculateGapTime();
         }
-	}
+    }
 
     private void CalculateGapTime()
     {
         makeGapTime = gapApplyTime + Random.Range(0, gapRandomOffset);
     }
 
+    public Vector2 RotateVector(Vector2 v, float angle)
+    {
+        float radian = angle * Mathf.Deg2Rad;
+        float _x = v.x * Mathf.Cos(radian) - v.y * Mathf.Sin(radian);
+        float _y = v.x * Mathf.Sin(radian) + v.y * Mathf.Cos(radian);
+        return new Vector2(_x, _y);
+    }
+
     private void ApplyTurn(float dt)
     {
-        if(turnShift != 0)
+        if (turnShift != 0)
         {
-            Vector2 perpVec = turnShift * Vector2.Perpendicular(direction);
-            direction = Vector2.Lerp(direction, perpVec, turnForce * speed * dt).normalized;
+            direction = RotateVector(direction, turnShift * turnForce * speed * dt).normalized;
         }
 
         tail.AddPoint(transform.position);
