@@ -72,21 +72,21 @@ public class DotHead : MonoBehaviour
         return dists;
     }
 
-    void Update()
+    void FixedUpdate()
     {
         if (Killed)
         {
             return;
         }
 
-        curTurnTime += Time.deltaTime;
+        curTurnTime += Time.fixedDeltaTime;
         if (curTurnTime > turnApplyTime)
         {
             ApplyTurn(curTurnTime);
             curTurnTime = 0f;
         }
 
-        makeGapTime -= Time.deltaTime;
+        makeGapTime -= Time.fixedDeltaTime;
         if (makeGapTime < 0)
         {
             tail.MakeGap();
