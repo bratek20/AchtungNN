@@ -1,7 +1,7 @@
 ﻿using MLAgents;
 using UnityEngine;
 
-public class SingleDotAcademy : Academy {
+public class TwoDotsAcademy : Academy {
     [SerializeField]
     private Board board;
 

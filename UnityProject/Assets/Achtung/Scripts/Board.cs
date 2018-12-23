@@ -15,7 +15,7 @@ public class Board : MonoBehaviour {
 
     private GameObject[] walls;
 
-    public bool AllKilled { get; private set; }
+    public int CountAllive { get; private set; }
 
     private void Start()
     {
@@ -52,19 +52,20 @@ public class Board : MonoBehaviour {
         {
             dot.Init(Random.insideUnitCircle * size * 0.8f);
         }
-        AllKilled = false;
+        CountAllive = dots.Length;
     }
 
     private void Update()
     {
-        bool allKilled = true; 
+        int countAllive = 0; 
         foreach(var dot in dots)
         {
-            allKilled  = allKilled && dot.Killed;
+            if (!dot.Killed)
+                countAllive += 1;
         }
 
-        AllKilled = allKilled;
-        if(allKilled && autoReset)
+        CountAllive = countAllive;
+        if(countAllive == 0 && autoReset)
         {
             Init();
         }

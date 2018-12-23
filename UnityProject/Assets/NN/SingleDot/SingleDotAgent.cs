@@ -22,7 +22,8 @@ public class SingleDotAgent : Agent {
     {
         const float TURN_THRESHOLD = 0.33f;
         float turnValue = vectorAction[0];
-        if(turnValue < -TURN_THRESHOLD)
+//        Debug.Log(vectorAction[0], gameObject);
+        if (turnValue < -TURN_THRESHOLD)
         {
             dot.TurnLeft();
         }
@@ -31,7 +32,7 @@ public class SingleDotAgent : Agent {
             dot.TurnRight();
         }
 
-        if(dot.Killed)
+        if (dot.Killed)
         {
             Done();
         }
