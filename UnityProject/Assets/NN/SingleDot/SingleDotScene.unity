@@ -172,7 +172,13 @@ MonoBehaviour:
     targetFrameRate: 60
   resetParameters:
     resetParameters: []
-  board: {fileID: 2009924377}
+  board: {fileID: 891347280}
+--- !u!114 &891347280 stripped
+MonoBehaviour:
+  m_PrefabParentObject: {fileID: 114209994578551408, guid: 41ab754f1f27ce046bf7713cac6c1a20,
+    type: 2}
+  m_PrefabInternal: {fileID: 1071075895}
+  m_Script: {fileID: 11500000, guid: 58a1c82d571226c4bb99c374488a6de8, type: 3}
 --- !u!1001 &1071075895
 Prefab:
   m_ObjectHideFlags: 0
@@ -181,6 +187,11 @@ Prefab:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 114199942810647320, guid: 41ab754f1f27ce046bf7713cac6c1a20,
+        type: 2}
+      propertyPath: dots.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114209994578551408, guid: 41ab754f1f27ce046bf7713cac6c1a20,
         type: 2}
       propertyPath: dots.Array.size
       value: 1
@@ -237,6 +248,16 @@ Prefab:
       propertyPath: dots.Array.data[1]
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 114209994578551408, guid: 41ab754f1f27ce046bf7713cac6c1a20,
+        type: 2}
+      propertyPath: dots.Array.data[0]
+      value: 
+      objectReference: {fileID: 1800710770}
+    - target: {fileID: 114209994578551408, guid: 41ab754f1f27ce046bf7713cac6c1a20,
+        type: 2}
+      propertyPath: size
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 41ab754f1f27ce046bf7713cac6c1a20, type: 2}
   m_IsPrefabParent: 0
@@ -277,12 +298,6 @@ MonoBehaviour:
     type: 2}
   m_PrefabInternal: {fileID: 2043487402}
   m_Script: {fileID: 11500000, guid: 75d6e6f91b1d9404fafb008919622a67, type: 3}
---- !u!114 &2009924377 stripped
-MonoBehaviour:
-  m_PrefabParentObject: {fileID: 114199942810647320, guid: 41ab754f1f27ce046bf7713cac6c1a20,
-    type: 2}
-  m_PrefabInternal: {fileID: 1071075895}
-  m_Script: {fileID: 11500000, guid: 58a1c82d571226c4bb99c374488a6de8, type: 3}
 --- !u!1001 &2043487402
 Prefab:
   m_ObjectHideFlags: 0

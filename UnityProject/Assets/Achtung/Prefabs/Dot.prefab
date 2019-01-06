@@ -83,7 +83,7 @@ Transform:
   m_GameObject: {fileID: 1995121360388928}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -1}
-  m_LocalScale: {x: 8, y: 8, z: 1}
+  m_LocalScale: {x: 6, y: 6, z: 1}
   m_Children: []
   m_Father: {fileID: 4647397665356166}
   m_RootOrder: 0
@@ -155,6 +155,7 @@ MonoBehaviour:
   gapRandomOffset: 2
   speed: 5
   config: {fileID: 0}
+  headSprite: {fileID: 212113926087232660}
   tail: {fileID: 114404149483855192}
 --- !u!114 &114404149483855192
 MonoBehaviour:

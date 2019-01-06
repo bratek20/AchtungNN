@@ -12,6 +12,8 @@ public class Board : MonoBehaviour {
     private GameObject wallPrefab;
     [SerializeField]
     private DotHead[] dots;
+    [SerializeField]
+    private Transform background;
 
     private GameObject[] walls;
 
@@ -22,7 +24,7 @@ public class Board : MonoBehaviour {
         walls = new GameObject[4];
         for(int i = 0; i < 4; i++)
         {
-            walls[i] = Instantiate(wallPrefab);
+            walls[i] = Instantiate(wallPrefab, transform);
         }
 
         Init();
@@ -40,7 +42,7 @@ public class Board : MonoBehaviour {
         Camera.main.orthographicSize = size;
         float heigth = 2 * size;
         float width = Camera.main.aspect* heigth;
-        transform.localScale = new Vector3(width, heigth, 1);
+        background.localScale = new Vector3(width, heigth, 1);
 
         float wallSize = 1;
         SetWall(0, -width / 2, 0, wallSize, heigth);

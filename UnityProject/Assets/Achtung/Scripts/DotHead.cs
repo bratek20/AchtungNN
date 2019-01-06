@@ -21,6 +21,8 @@ public class DotHead : MonoBehaviour
     [SerializeField]
     private DotConfig config;
     [SerializeField]
+    private SpriteRenderer headSprite;
+    [SerializeField]
     private DotTail tail;
 
     private float curTurnTime = 0f;
@@ -37,6 +39,7 @@ public class DotHead : MonoBehaviour
         turnShift = 0;
         direction = Random.insideUnitCircle.normalized;
         Killed = false;
+        headSprite.color = config.color;
         tail.Init(config.color);
         CalculateGapTime();
     }

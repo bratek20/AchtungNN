@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.37311918, g: 0.3807398, b: 0.35872716, a: 1}
+  m_IndirectSpecularColor: {r: 0.37311992, g: 0.38074034, b: 0.35872713, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -266,7 +266,7 @@ MonoBehaviour:
     targetFrameRate: 60
   resetParameters:
     resetParameters: []
-  board: {fileID: 2009924377}
+  board: {fileID: 1071075897}
 --- !u!114 &397823386 stripped
 MonoBehaviour:
   m_PrefabParentObject: {fileID: 114064930259127924, guid: ecf52845fe4703e4e93eb4ca43b481d7,
@@ -337,6 +337,16 @@ Prefab:
       propertyPath: dots.Array.data[1]
       value: 
       objectReference: {fileID: 397823386}
+    - target: {fileID: 114209994578551408, guid: 41ab754f1f27ce046bf7713cac6c1a20,
+        type: 2}
+      propertyPath: dots.Array.data[0]
+      value: 
+      objectReference: {fileID: 1800710770}
+    - target: {fileID: 114209994578551408, guid: 41ab754f1f27ce046bf7713cac6c1a20,
+        type: 2}
+      propertyPath: dots.Array.data[1]
+      value: 
+      objectReference: {fileID: 397823386}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 41ab754f1f27ce046bf7713cac6c1a20, type: 2}
   m_IsPrefabParent: 0
@@ -345,6 +355,12 @@ Transform:
   m_PrefabParentObject: {fileID: 4871916866130832, guid: 41ab754f1f27ce046bf7713cac6c1a20,
     type: 2}
   m_PrefabInternal: {fileID: 1071075895}
+--- !u!114 &1071075897 stripped
+MonoBehaviour:
+  m_PrefabParentObject: {fileID: 114209994578551408, guid: 41ab754f1f27ce046bf7713cac6c1a20,
+    type: 2}
+  m_PrefabInternal: {fileID: 1071075895}
+  m_Script: {fileID: 11500000, guid: 58a1c82d571226c4bb99c374488a6de8, type: 3}
 --- !u!1 &1522908098 stripped
 GameObject:
   m_PrefabParentObject: {fileID: 1028628678418506, guid: ecf52845fe4703e4e93eb4ca43b481d7,
@@ -377,12 +393,6 @@ MonoBehaviour:
     type: 2}
   m_PrefabInternal: {fileID: 2043487402}
   m_Script: {fileID: 11500000, guid: 75d6e6f91b1d9404fafb008919622a67, type: 3}
---- !u!114 &2009924377 stripped
-MonoBehaviour:
-  m_PrefabParentObject: {fileID: 114199942810647320, guid: 41ab754f1f27ce046bf7713cac6c1a20,
-    type: 2}
-  m_PrefabInternal: {fileID: 1071075895}
-  m_Script: {fileID: 11500000, guid: 58a1c82d571226c4bb99c374488a6de8, type: 3}
 --- !u!1001 &2043487402
 Prefab:
   m_ObjectHideFlags: 0
