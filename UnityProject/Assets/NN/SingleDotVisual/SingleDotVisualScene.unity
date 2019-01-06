@@ -320,6 +320,11 @@ Prefab:
       propertyPath: m_LocalScale.y
       value: 10
       objectReference: {fileID: 0}
+    - target: {fileID: 114184202852549352, guid: a2ce0cb7f6c35f347a43247ee0d8cee9,
+        type: 2}
+      propertyPath: dots.Array.data[1]
+      value: 
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: a2ce0cb7f6c35f347a43247ee0d8cee9, type: 2}
   m_IsPrefabParent: 0
@@ -415,6 +420,7 @@ MonoBehaviour:
     onDemandDecision: 0
     numberOfActionsBetweenDecisions: 1
   dot: {fileID: 1317956921}
+  cam: {fileID: 2002356505}
 --- !u!1001 &1677459096
 Prefab:
   m_ObjectHideFlags: 0
@@ -506,7 +512,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 5
+  orthographic size: 10
   m_Depth: 0
   m_CullingMask:
     serializedVersion: 2

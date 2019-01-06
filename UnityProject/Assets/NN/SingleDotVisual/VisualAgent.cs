@@ -6,6 +6,16 @@ public class VisualAgent : Agent
 {
     [SerializeField]
     private DotHead dot;
+    [SerializeField]
+    private Transform cam;
+
+    public override void CollectObservations()
+    {
+        Vector2 dir = dot.Direction;
+        float angle = Vector2.SignedAngle(dir, Vector2.up);
+        cam.localEulerAngles = new Vector3(0, 0, -angle);
+    }
+
 
     public override void AgentAction(float[] vectorAction, string textAction)
     {

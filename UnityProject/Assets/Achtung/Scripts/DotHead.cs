@@ -31,6 +31,7 @@ public class DotHead : MonoBehaviour
     private Vector2 direction = Vector3.up;
 
     public bool Killed { private set; get; }
+    public Vector2 Direction { get { return direction; } }
 
     public void Init(Vector2 initPos)
     {
