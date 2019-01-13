@@ -5,11 +5,16 @@ using UnityEngine;
 public class DotController : MonoBehaviour {
 
     [SerializeField]
-    private DotConfig config;
-    [SerializeField]
     private DotHead dot;
 
-	void Update ()
+    private DotConfig config;
+
+    private void Start()
+    {
+        config = dot.Config;    
+    }
+
+    void Update ()
     {    
         if(Input.GetKey(config.leftKey))
         {

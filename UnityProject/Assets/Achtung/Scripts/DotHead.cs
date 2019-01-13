@@ -32,6 +32,7 @@ public class DotHead : MonoBehaviour
 
     public bool Killed { private set; get; }
     public Vector2 Direction { get { return direction; } }
+    public DotConfig Config { get { return config; } }
 
     public void Init(Vector2 initPos)
     {
