@@ -16,10 +16,19 @@ MonoBehaviour:
     numStackedVectorObservations: 1
     vectorActionSize: 01000000
     cameraResolutions:
-    - width: 256
-      height: 256
+    - width: 84
+      height: 84
+      blackAndWhite: 1
+    - width: 84
+      height: 84
+      blackAndWhite: 1
+    - width: 84
+      height: 84
+      blackAndWhite: 1
+    - width: 84
+      height: 84
       blackAndWhite: 1
     vectorActionDescriptions:
     - 
     vectorActionSpaceType: 1
-  model: {fileID: 4900000, guid: 4838413bf4375da48bf002bd5a95dc98, type: 3}
+  model: {fileID: 0}
