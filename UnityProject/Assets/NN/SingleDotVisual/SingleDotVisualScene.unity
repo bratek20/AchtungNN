@@ -227,8 +227,8 @@ MonoBehaviour:
     _brainsToControl: []
   maxSteps: 0
   trainingConfiguration:
-    width: 80
-    height: 80
+    width: 800
+    height: 600
     qualityLevel: 1
     timeScale: 10
     targetFrameRate: 20
