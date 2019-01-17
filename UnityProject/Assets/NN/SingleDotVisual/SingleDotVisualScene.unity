@@ -556,6 +556,8 @@ MonoBehaviour:
   cameras:
   - {fileID: 2002356505}
   - {fileID: 66870830}
+  - {fileID: 750664418}
+  - {fileID: 1983076199}
 --- !u!1001 &1677459096
 Prefab:
   m_ObjectHideFlags: 0
