@@ -7,6 +7,8 @@ public class VisualAgent : Agent
     [SerializeField]
     private DotHead dot;
     [SerializeField]
+    private Board board;
+    [SerializeField]
     private Transform[] cameras;
 
     public override void CollectObservations()
@@ -19,11 +21,20 @@ public class VisualAgent : Agent
         }
     }
 
+    private float CalcDistReward()
+    {
+        var dists = dot.GetDistsToObstacles(5, 33);
+        float maxDist = board.MaxDist;
+        float normSum = dists.Select(d => d / maxDist).Sum();
+        return normSum / dists.Count;
+    }
 
     public override void AgentAction(float[] vectorAction, string textAction)
     {
-        AddReward(0.01f);
-
+        float reward = CalcDistReward();
+        Monitor.Log("Reward", reward.ToString());
+        AddReward(reward);
+         
         const float TURN_THRESHOLD = 0.33f;
         float turnValue = vectorAction[0];
         if (turnValue < -TURN_THRESHOLD)

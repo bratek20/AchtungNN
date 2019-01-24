@@ -18,6 +18,7 @@ public class Board : MonoBehaviour {
     private GameObject[] walls;
 
     public int CountAllive { get; private set; }
+    public float MaxDist { get; private set; }
 
     private void Start()
     {
@@ -43,6 +44,7 @@ public class Board : MonoBehaviour {
         float heigth = 2 * size;
         float width = Camera.main.aspect* heigth;
         background.localScale = new Vector3(width, heigth, 1);
+        MaxDist = Vector2.Distance(Vector2.zero, background.localScale);
 
         float wallSize = 1;
         SetWall(0, -width / 2, 0, wallSize, heigth);

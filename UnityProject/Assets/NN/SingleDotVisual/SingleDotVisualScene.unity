@@ -390,6 +390,11 @@ Prefab:
       propertyPath: dots.Array.data[1]
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 114184202852549352, guid: a2ce0cb7f6c35f347a43247ee0d8cee9,
+        type: 2}
+      propertyPath: autoReset
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: a2ce0cb7f6c35f347a43247ee0d8cee9, type: 2}
   m_IsPrefabParent: 0
@@ -515,6 +520,10 @@ Prefab:
       value: 
       objectReference: {fileID: 11400000, guid: dfd8c66b27eebc14b8f748473baf67a9,
         type: 2}
+    - target: {fileID: 1995121360388928, guid: ecf52845fe4703e4e93eb4ca43b481d7, type: 2}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 114405312421953422, guid: ecf52845fe4703e4e93eb4ca43b481d7, type: 2}
   m_ParentPrefab: {fileID: 100100000, guid: ecf52845fe4703e4e93eb4ca43b481d7, type: 2}
@@ -553,6 +562,7 @@ MonoBehaviour:
     onDemandDecision: 0
     numberOfActionsBetweenDecisions: 1
   dot: {fileID: 1317956921}
+  board: {fileID: 568109587}
   cameras:
   - {fileID: 2002356505}
   - {fileID: 66870830}

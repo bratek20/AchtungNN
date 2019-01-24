@@ -20,14 +20,15 @@ public class SingleDotAgent : Agent {
 
     public override void AgentAction(float[] vectorAction, string textAction)
     {
+        AddReward(0.01f);
+
         const float TURN_THRESHOLD = 0.33f;
         float turnValue = vectorAction[0];
-//        Debug.Log(vectorAction[0], gameObject);
         if (turnValue < -TURN_THRESHOLD)
         {
             dot.TurnLeft();
         }
-        else if(turnValue > TURN_THRESHOLD)
+        else if (turnValue > TURN_THRESHOLD)
         {
             dot.TurnRight();
         }
@@ -35,10 +36,8 @@ public class SingleDotAgent : Agent {
         if (dot.Killed)
         {
             Done();
+            SetReward(-1.0f);
         }
-        else
-        {
-           AddReward(0.1f);
-        }  
+
     }
 }
