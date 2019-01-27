@@ -14,7 +14,6 @@ public class MaxSizeNormalize : Agent
     public override void CollectObservations()
     {
         var dists = dot.GetDistsToObstacles(distSamples, angleStep);
-        float max = dists.Max();
         dists = dists.Select(val => val / 1469).ToList();
         AddVectorObs(dists);
     }

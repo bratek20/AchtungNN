@@ -14,7 +14,6 @@ public class OnlyShortRange : Agent
     public override void CollectObservations()
     {
         var dists = dot.GetDistsToObstacles(distSamples, angleStep);
-        float max = dists.Max();
         dists = dists.Select(val => val > 5 ? 1 : val / 5).ToList();
         AddVectorObs(dists);
     }

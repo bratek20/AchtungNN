@@ -14,7 +14,6 @@ public class ReverseAndNotReversed : Agent
     public override void CollectObservations()
     {
         var dists = dot.GetDistsToObstacles(distSamples, angleStep);
-        float max = dists.Max();
         dists = dists.Select(val => val > 1 ? 1 : val).ToList()
             .Concat(dists.Select(val => val < 1 ? 1 : 1 / val).ToList()).ToList();
         AddVectorObs(dists);
