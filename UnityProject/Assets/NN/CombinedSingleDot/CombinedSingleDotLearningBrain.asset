@@ -9,26 +9,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8b23992c8eb17439887f5e944bf04a40, type: 3}
-  m_Name: VisualBrain
+  m_Name: CombinedSingleDotLearningBrain
   m_EditorClassIdentifier: 
   brainParameters:
-    vectorObservationSize: 1
+    vectorObservationSize: 202
     numStackedVectorObservations: 1
-    vectorActionSize: 01000000
+    vectorActionSize: 03000000
     cameraResolutions:
-    - width: 32
-      height: 32
-      blackAndWhite: 1
-    - width: 48
-      height: 48
-      blackAndWhite: 1
     - width: 64
       height: 64
       blackAndWhite: 1
-    - width: 80
-      height: 80
-      blackAndWhite: 1
     vectorActionDescriptions:
     - 
-    vectorActionSpaceType: 1
-  model: {fileID: 4900000, guid: 1d284ad76841f1f44b8b491e5a59bc26, type: 3}
+    vectorActionSpaceType: 0
+  model: {fileID: 0}
