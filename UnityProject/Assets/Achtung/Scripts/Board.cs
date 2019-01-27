@@ -7,7 +7,9 @@ public class Board : MonoBehaviour {
     [SerializeField]
     private bool autoReset = true;
     [SerializeField]
-    private float size = 5f;
+    private float size = 10f;
+    [SerializeField]
+    private float aspectRatio = 1.3f;
     [SerializeField]
     private GameObject wallPrefab;
     [SerializeField]
@@ -42,7 +44,7 @@ public class Board : MonoBehaviour {
     {
         Camera.main.orthographicSize = size;
         float heigth = 2 * size;
-        float width = Camera.main.aspect* heigth;
+        float width = aspectRatio * heigth;
         background.localScale = new Vector3(width, heigth, 1);
         MaxDist = Vector2.Distance(Vector2.zero, background.localScale);
 
