@@ -58,10 +58,19 @@ public class DotTail : MonoBehaviour
     public void AddPoint(Vector2 point)
     {
         waitPoints.Enqueue(point);
-        while(waitPoints.Count > 0 && !dotCol.OverlapPoint(waitPoints.Peek()))
+        while(waitPoints.Count > 0 && !CheckDotOverlap(waitPoints.Peek()))
         {
             InternalAddPoint(waitPoints.Dequeue());
         }
+    }
+
+    private bool CheckDotOverlap(Vector2 point)
+    {
+        if(dotCol == null)
+        {
+            return false;
+        }
+        return dotCol.OverlapPoint(point);
     }
 
     private void InternalAddPoint(Vector2 point)
@@ -95,5 +104,22 @@ public class DotTail : MonoBehaviour
         points.Add(point);
         line.positionCount = points.Count;
         line.SetPosition(points.Count - 1, point);
+    }
+
+    public void SetEndColor(Color c)
+    {
+        line.endColor = c;
+    }
+
+    public EdgeCollider2D GetEdgeCollider()
+    {
+        return edges;
+    }
+
+    public void MakeLine(Vector2 p1, Vector2 p2)
+    {
+        AddPoint(p1);
+        AddPoint(p2);
+        edges.points = points.ToArray();
     }
 }
