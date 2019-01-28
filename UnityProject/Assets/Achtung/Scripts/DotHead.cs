@@ -34,12 +34,12 @@ public class DotHead : MonoBehaviour
     public Vector2 Direction { get { return direction; } }
     public DotConfig Config { get { return config; } }
 
-    public void Init(Vector2 initPos)
+    public void Init(Vector2 initPos, Vector2? initDir = null)
     {
         transform.position = new Vector3(initPos.x, initPos.y, -1);
         curTurnTime = 0f;
         turnShift = 0;
-        direction = Random.insideUnitCircle.normalized;
+        direction = initDir.HasValue ? initDir.Value : Random.insideUnitCircle.normalized;
         Killed = false;
         headSprite.color = config.color;
         tail.Init(config.color);

@@ -13,9 +13,7 @@ public class SingleDotAcademy : Academy {
 
     public override void AcademyReset()
     {
-        Debug.Log("prevWait");
         StartCoroutine(Wait());
-        Debug.Log("postWait");
         board.Init();
     }
 
