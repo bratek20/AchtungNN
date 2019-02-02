@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Name: VisualBrain
   m_EditorClassIdentifier: 
   brainParameters:
-    vectorObservationSize: 1
+    vectorObservationSize: 0
     numStackedVectorObservations: 1
     vectorActionSize: 01000000
     cameraResolutions:

@@ -403,7 +403,7 @@ Prefab:
     - target: {fileID: 114184202852549352, guid: a2ce0cb7f6c35f347a43247ee0d8cee9,
         type: 2}
       propertyPath: loadBuiltBoard
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: a2ce0cb7f6c35f347a43247ee0d8cee9, type: 2}
@@ -560,7 +560,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3289cf91cea6dc344926c1fdcdc2892b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  brain: {fileID: 11400000, guid: 1909b9bcc7fbc1047b44c2fe888f9035, type: 2}
+  brain: {fileID: 11400000, guid: 407acb12a1fcf8042ae6efd526b68d39, type: 2}
   agentParameters:
     agentCameras:
     - {fileID: 2002356508}
