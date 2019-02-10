@@ -24,7 +24,7 @@ public class DotTail : MonoBehaviour
     private float curGapSize = 0f;
 
     public int PointsCount { get { return points.Count; } }
-
+    public DotHead Head { get { return dotCol != null ? dotCol.GetComponent<DotHead>() : null; } }
     public void Init(Color color)
     {
         this.color = color;
@@ -49,6 +49,18 @@ public class DotTail : MonoBehaviour
         line.endColor = color;
         points.Clear();
         waitPoints.Clear();
+    }
+
+    public int GetLinePartNum(GameObject line)
+    {
+        for(int i=lineParts.Count -1; i >= 0; i--)
+        {
+            if(lineParts[i] == line)
+            {
+                return lineParts.Count - i - 1;
+            }
+        }
+        return lineParts.Count;
     }
 
     public void MakeGap()
@@ -135,4 +147,6 @@ public class DotTail : MonoBehaviour
         line.SetPositions(positions);
         edges.points = positions.Select(v => new Vector2(v.x, v.y)).ToArray();
     }
+
+
 }

@@ -30,7 +30,10 @@ public class DotHead : MonoBehaviour
     private int turnShift = 0;
     private Vector2 direction = Vector3.up;
 
+    public DotTail Tail { get { return tail; } }
     public bool Killed { private set; get; }
+    public DotHead KilledBy { private set; get; }
+    public GameObject KillingPart { set; get; }
     public Vector2 Direction { get { return direction; } }
     public DotConfig Config { get { return config; } }
 
@@ -127,5 +130,21 @@ public class DotHead : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D collision)
     {
         Killed = true;
+        DotTail tail = collision.gameObject.GetComponentInParent<DotTail>();
+        KilledBy = tail != null ? tail.Head : null;
+
+        if (KilledBy == null)
+        {
+            Debug.Log("Killed by obstacle");
+        }
+        else if (KilledBy == this)
+        {
+            Debug.Log("Killed by himself");
+        }
+        else
+        {
+            Debug.Log("Killed by enemy");
+            KilledBy.KillingPart = collision.gameObject;
+        }
     }
 }

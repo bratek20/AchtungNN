@@ -76,6 +76,22 @@ public class CombinedTwoDotsAgent : Agent
             Done();
             SetReward(-1.0f);
         }
+
+        if(dot.KillingPart != null)
+        {
+            int num = dot.Tail.GetLinePartNum(dot.KillingPart);
+            if(num == 0)
+            {
+                Debug.Log("I killed with my newest part!");
+                SetReward(1.0f);
+            }
+            if(num == 1)
+            {
+                Debug.Log("I killed with my second newest part!");
+                SetReward(0.5f);
+            }
+            dot.KillingPart = null;
+        }
     }
 }
 

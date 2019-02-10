@@ -160,7 +160,7 @@ Prefab:
     - target: {fileID: 114184202852549352, guid: a2ce0cb7f6c35f347a43247ee0d8cee9,
         type: 2}
       propertyPath: size
-      value: 10
+      value: 20
       objectReference: {fileID: 0}
     - target: {fileID: 4945648228459946, guid: a2ce0cb7f6c35f347a43247ee0d8cee9, type: 2}
       propertyPath: m_LocalScale.x
@@ -219,6 +219,10 @@ MonoBehaviour:
   startPoint: {x: 0, y: 0}
   direction: {x: 0, y: 0}
   startPointSet: 0
+  startPoint2: {x: 0, y: 0}
+  direction2: {x: 0, y: 0}
+  startPoint2Set: 0
+  curPoint: 0
 --- !u!4 &1465161263
 Transform:
   m_ObjectHideFlags: 0

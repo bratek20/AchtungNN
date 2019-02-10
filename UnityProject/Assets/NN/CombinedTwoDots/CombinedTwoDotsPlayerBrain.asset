@@ -12,13 +12,16 @@ MonoBehaviour:
   m_Name: CombinedTwoDotsPlayerBrain
   m_EditorClassIdentifier: 
   brainParameters:
-    vectorObservationSize: 11
+    vectorObservationSize: 202
     numStackedVectorObservations: 1
-    vectorActionSize: 01000000
-    cameraResolutions: []
+    vectorActionSize: 03000000
+    cameraResolutions:
+    - width: 64
+      height: 64
+      blackAndWhite: 1
     vectorActionDescriptions:
     - 
-    vectorActionSpaceType: 1
+    vectorActionSpaceType: 0
   keyContinuousPlayerActions:
   - key: 276
     index: 0
@@ -30,7 +33,7 @@ MonoBehaviour:
   discretePlayerActions:
   - key: 276
     branchIndex: 0
-    value: -1
+    value: 1
   - key: 275
     branchIndex: 0
-    value: 1
+    value: 2

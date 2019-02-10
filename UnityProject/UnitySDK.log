@@ -1,7 +1,7 @@
-10.02.2019 20:25:06
+10.02.2019 20:35:00
  
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -12,7 +12,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:563)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -22,7 +22,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -33,7 +33,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -43,7 +43,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -54,7 +54,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -64,7 +64,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -75,7 +75,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -85,7 +85,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -96,7 +96,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -106,7 +106,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -117,7 +117,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -127,7 +127,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -138,7 +138,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -148,7 +148,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -159,7 +159,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -169,7 +169,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -180,7 +180,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -190,7 +190,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -201,7 +201,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -211,7 +211,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -222,7 +222,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -232,7 +232,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -243,7 +243,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -253,7 +253,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -264,7 +264,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -274,7 +274,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -285,7 +285,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -295,7 +295,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -306,7 +306,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -316,7 +316,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -327,7 +327,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -337,7 +337,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -348,7 +348,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -358,7 +358,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -369,7 +369,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -379,7 +379,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -390,7 +390,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -400,7 +400,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -411,7 +411,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -421,7 +421,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -432,7 +432,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -442,7 +442,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -453,7 +453,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -463,7 +463,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -474,7 +474,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -484,7 +484,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -495,7 +495,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -505,7 +505,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -516,7 +516,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -526,7 +526,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -537,7 +537,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -547,7 +547,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -558,7 +558,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -568,7 +568,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -579,7 +579,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -589,7 +589,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -600,7 +600,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -610,7 +610,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -621,7 +621,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -631,7 +631,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -642,7 +642,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -652,7 +652,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -663,7 +663,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -673,7 +673,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -684,7 +684,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -694,7 +694,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -705,7 +705,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: True
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -715,7 +715,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: True
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -726,7 +726,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: True
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -736,7 +736,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: True
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -747,7 +747,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: True
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -757,7 +757,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: True
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -768,7 +768,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: True
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -778,7 +778,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: True
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -789,7 +789,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: True
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -799,7 +799,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: True
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -810,7 +810,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: True
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -820,7 +820,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: True
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -831,7 +831,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: True
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -841,7 +841,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: True
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -852,7 +852,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: True
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -862,7 +862,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: True
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -873,7 +873,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: True
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -883,7 +883,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: True
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -894,7 +894,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: True
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -904,7 +904,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: True
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -915,7 +915,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: True
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -925,7 +925,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -936,7 +936,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: True
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -946,7 +946,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: True
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -957,7 +957,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -967,7 +967,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: True
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -978,7 +978,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -988,7 +988,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: True
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -999,7 +999,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1009,7 +1009,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: True
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1020,7 +1020,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1030,7 +1030,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: True
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1041,7 +1041,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: True
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1051,7 +1051,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: True
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1062,7 +1062,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1072,7 +1072,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: True
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1083,7 +1083,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: True
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1093,7 +1093,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1104,7 +1104,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1114,7 +1114,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: True
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1125,7 +1125,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1135,7 +1135,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: True
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1146,7 +1146,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: True
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1156,7 +1156,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: True
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1167,7 +1167,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1177,7 +1177,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1188,7 +1188,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1198,7 +1198,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: True
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1209,7 +1209,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: True
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1219,7 +1219,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1230,7 +1230,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: True
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1240,7 +1240,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: True
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1251,7 +1251,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1261,7 +1261,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: True
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1272,7 +1272,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: True
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1282,7 +1282,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1293,7 +1293,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: True
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1303,7 +1303,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: True
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1314,7 +1314,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: True
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1324,7 +1324,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: True
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1335,7 +1335,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1345,7 +1345,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1356,7 +1356,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: True
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1366,7 +1366,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1377,7 +1377,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1387,7 +1387,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: True
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1398,7 +1398,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: True
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1408,7 +1408,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: True
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1419,7 +1419,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1429,7 +1429,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: True
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1440,7 +1440,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: True
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1450,7 +1450,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1461,7 +1461,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: True
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1471,7 +1471,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1482,7 +1482,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1492,7 +1492,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1503,7 +1503,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1513,7 +1513,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1524,7 +1524,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: True
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1534,7 +1534,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: True
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1545,7 +1545,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: True
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1555,7 +1555,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1566,7 +1566,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: True
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1576,7 +1576,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: True
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1587,7 +1587,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1597,7 +1597,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: True
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1608,7 +1608,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1618,7 +1618,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: True
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1629,7 +1629,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1639,7 +1639,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1650,7 +1650,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: True
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1660,7 +1660,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1671,7 +1671,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1681,7 +1681,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: True
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1692,7 +1692,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: True
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1702,7 +1702,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: True
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1713,7 +1713,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1723,7 +1723,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1734,7 +1734,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1744,7 +1744,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1755,7 +1755,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: True
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1765,7 +1765,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1776,7 +1776,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1786,7 +1786,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1797,7 +1797,7 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: True
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
@@ -1807,7 +1807,1162 @@ MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
 MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
 
 Log
-Loaded board: spiralShort(Clone), sym: False
+Loaded board: simple2Dots(Clone), sym: True
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: True
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: True
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: True
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: True
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: True
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: True
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: True
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: True
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: True
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: True
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: True
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: True
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: True
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: True
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: True
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: True
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: True
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: True
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: True
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: True
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: True
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: True
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: True
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: True
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: True
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: True
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: True
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: True
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: True
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: True
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: True
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: True
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: True
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: True
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: True
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: True
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: True
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: True
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: True
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: True
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: True
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: True
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: True
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: simple2Dots(Clone), sym: True
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: empty(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: empty(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: empty(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: empty(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: empty(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: empty(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: empty(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: empty(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: empty(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: empty(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: empty(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: empty(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: empty(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: empty(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: empty(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: empty(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: empty(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: empty(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: empty(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: empty(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: empty(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: empty(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: empty(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: empty(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: empty(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: empty(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:ForcedFullReset() (at Assets/ML-Agents/Scripts/Academy.cs:519)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:547)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: empty(Clone), sym: False
+UnityEngine.Debug:Log(Object)
+Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
+Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
+BuilderDotAcademy:AcademyReset() (at Assets/NN/CombinedSingleDot/BuilderDotAcademy.cs:70)
+MLAgents.Academy:EnvironmentReset() (at Assets/ML-Agents/Scripts/Academy.cs:603)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:578)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:611)
+
+Log
+Loaded board: empty(Clone), sym: False
 UnityEngine.Debug:Log(Object)
 Board:LoadBuiltBoard(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:112)
 Board:Init(BoardBuilder, Boolean) (at Assets/Achtung/Scripts/Board.cs:76)
