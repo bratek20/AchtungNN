@@ -269,7 +269,7 @@ GameObject:
   - component: {fileID: 462631031}
   - component: {fileID: 462631030}
   m_Layer: 0
-  m_Name: SingleDotAcademy
+  m_Name: BuilderDotAcademy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -283,13 +283,14 @@ MonoBehaviour:
   m_GameObject: {fileID: 462631029}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3dab23f6d228e624086ca05f9a0cdef0, type: 3}
+  m_Script: {fileID: 11500000, guid: 022dd2a015d22f84daab87fecaa4fe65, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   broadcastHub:
     broadcastingBrains:
     - {fileID: 11400000, guid: 7ad80184355c3e841bf530a33a0a8ab6, type: 2}
-    _brainsToControl: []
+    _brainsToControl:
+    - {fileID: 11400000, guid: 7ad80184355c3e841bf530a33a0a8ab6, type: 2}
   maxSteps: 0
   trainingConfiguration:
     width: 80
@@ -306,6 +307,18 @@ MonoBehaviour:
   resetParameters:
     resetParameters: []
   board: {fileID: 568109587}
+  steps: 0
+  options:
+  - BuilderPrefab: {fileID: 114331532781584844, guid: b3c013ce5ad0389469c81221cccedab5,
+      type: 2}
+    StepsK: 4
+    SymType: 0
+  - BuilderPrefab: {fileID: 114331532781584844, guid: b3c013ce5ad0389469c81221cccedab5,
+      type: 2}
+    StepsK: 4
+    SymType: 1
+  emptyPrefab: {fileID: 114678253443932662, guid: f7f3859a0c2289d47a5306e1c7a4fdf1,
+    type: 2}
 --- !u!4 &462631031
 Transform:
   m_ObjectHideFlags: 0

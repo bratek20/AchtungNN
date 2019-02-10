@@ -30,11 +30,14 @@ public class Board : MonoBehaviour {
 
     private void Start()
     {
-        if (loadBuiltBoard)
+        //if (loadBuiltBoard)
+        //{
+        //    InitBuilderPrefabs();
+        //}
+        if(autoReset)
         {
-            InitBuilderPrefabs();
+            Init();
         }
-        Init();
     }
 
     private void SetWall(int idx, float x1, float y1, float x2, float y2)
@@ -43,7 +46,7 @@ public class Board : MonoBehaviour {
         walls[idx].MakeLine(new Vector2(x1, y1), new Vector2(x2, y2));
     }
 
-    public void Init()
+    public void Init(BoardBuilder builderPrefab = null, bool makeSymmetry = false)
     {
         InitWalls();
 
@@ -68,9 +71,9 @@ public class Board : MonoBehaviour {
         }
         CountAllive = dots.Length;
 
-        if(loadBuiltBoard)
+        if(builderPrefab != null)
         {
-            LoadBuiltBoard();
+            LoadBuiltBoard(builderPrefab, makeSymmetry);
             if(dots.Length > 0 && builder.StartPointSet)
             {
                 dots[0].Init(builder.StartPoint, builder.Direction);
@@ -94,20 +97,19 @@ public class Board : MonoBehaviour {
         }
     }
 
-    private void LoadBuiltBoard()
+    private void LoadBuiltBoard(BoardBuilder builderPrefab, bool makeSymmetry)
     {
         if(builder != null)
         {
             Destroy(builder.gameObject);
         }
 
-        builder = Instantiate(GetNextBuilderPrefab(), transform);
-        bool makeSym = Random.Range(0, 2) == 0;
-        if (makeSym)
+        builder = Instantiate(builderPrefab, transform);
+        if (makeSymmetry)
         {
             builder.MakeVertSymmetry();
         }
-        Debug.Log("Loaded board: " + builder.name + ", sym: " + makeSym);
+        Debug.Log("Loaded board: " + builder.name + ", sym: " + makeSymmetry);
     }
 
     private BoardBuilder GetRandomBuilderPrefab()
