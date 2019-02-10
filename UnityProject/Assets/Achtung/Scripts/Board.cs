@@ -75,6 +75,10 @@ public class Board : MonoBehaviour {
             {
                 dots[0].Init(builder.StartPoint, builder.Direction);
             }
+            if (dots.Length > 1 && builder.StartPoint2Set)
+            {
+                dots[1].Init(builder.StartPoint2, builder.Direction2);
+            }
         }
     }
 
@@ -98,7 +102,12 @@ public class Board : MonoBehaviour {
         }
 
         builder = Instantiate(GetNextBuilderPrefab(), transform);
-        Debug.Log("Loaded board: " + builder.name);
+        bool makeSym = Random.Range(0, 2) == 0;
+        if (makeSym)
+        {
+            builder.MakeVertSymmetry();
+        }
+        Debug.Log("Loaded board: " + builder.name + ", sym: " + makeSym);
     }
 
     private BoardBuilder GetRandomBuilderPrefab()

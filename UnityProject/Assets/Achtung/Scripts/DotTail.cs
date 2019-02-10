@@ -23,6 +23,8 @@ public class DotTail : MonoBehaviour
     private bool makeGap = false;
     private float curGapSize = 0f;
 
+    public int PointsCount { get { return points.Count; } }
+
     public void Init(Color color)
     {
         this.color = color;
@@ -121,5 +123,16 @@ public class DotTail : MonoBehaviour
         AddPoint(p1);
         AddPoint(p2);
         edges.points = points.ToArray();
+    }
+
+    public void MakeVertSymmetry()
+    {
+        line = GetComponentInChildren<LineRenderer>();
+        edges = GetComponentInChildren<EdgeCollider2D>();
+        Vector3[] positions = new Vector3[line.positionCount];
+        line.GetPositions(positions);
+        positions = positions.Select(p => new Vector3(-p.x, p.y, p.z)).ToArray();
+        line.SetPositions(positions);
+        edges.points = positions.Select(v => new Vector2(v.x, v.y)).ToArray();
     }
 }

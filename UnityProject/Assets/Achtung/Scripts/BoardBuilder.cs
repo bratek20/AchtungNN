@@ -26,13 +26,25 @@ public class BoardBuilder : MonoBehaviour
     private Vector2 direction;
     [SerializeField]
     private bool startPointSet;
+    [SerializeField]
+    private Vector2 startPoint2;
+    [SerializeField]
+    private Vector2 direction2;
+    [SerializeField]
+    private bool startPoint2Set;
+    [SerializeField]
+    private int curPoint = 0;
 
     private List<DotTail> lines = new List<DotTail>();
     private DotTail startPointLine = null;
-    
-    public Vector2 StartPoint { get { return startPoint; } private set { startPoint = value; } }
-    public Vector2 Direction { get { return direction; } private set { direction = value; } }
-    public bool StartPointSet { get { return startPointSet; } private set { startPointSet = value; } }
+    private DotTail startPoint2Line = null;
+
+    public Vector2 StartPoint { get { return startPoint; } }
+    public Vector2 Direction { get { return direction; } }
+    public bool StartPointSet { get { return startPointSet; } }
+    public Vector2 StartPoint2 { get { return startPoint2; } }
+    public Vector2 Direction2 { get { return direction2; } }
+    public bool StartPoint2Set { get { return startPoint2Set; } }
 
     public void Clear()
     {
@@ -45,8 +57,10 @@ public class BoardBuilder : MonoBehaviour
         }
         lines.Clear();
 
-        DestroyStartPointLine();
-        StartPointSet = false;
+        DestroyStartPointLine(ref startPointLine);
+        DestroyStartPointLine(ref startPoint2Line);
+        startPointSet = false;
+        startPoint2Set = false;
     }
 
     public void Save()
@@ -55,12 +69,24 @@ public class BoardBuilder : MonoBehaviour
         {
             startPointLine.gameObject.SetActive(false);
         }
+        if (startPoint2Line != null)
+        {
+            startPoint2Line.gameObject.SetActive(false);
+        }
         Object prefab = PrefabUtility.CreateEmptyPrefab(ASSETS_PATH + boardName + ".prefab");
         PrefabUtility.ReplacePrefab(gameObject, prefab, ReplacePrefabOptions.ConnectToPrefab);
     }
 
     private void Update()
     {
+        if (Input.GetKeyDown(KeyCode.Alpha1))
+        {
+            curPoint = 1;
+        }
+        if (Input.GetKeyDown(KeyCode.Alpha2))
+        {
+            curPoint = 2;
+        }
         if (Input.GetMouseButtonDown(0))
         {
             CreateNewLine();           
@@ -71,11 +97,25 @@ public class BoardBuilder : MonoBehaviour
         }
         if (Input.GetMouseButtonDown(1))
         {
-            SetStartPointBeg(GetMousePos());
+            if(curPoint == 1)
+            {
+                SetStartPointBeg(GetMousePos(), ref startPoint);
+            }
+            if (curPoint == 2)
+            {
+                SetStartPointBeg(GetMousePos(), ref startPoint2);
+            }
         }
         if (Input.GetMouseButtonUp(1))
         {
-            SetStartPointEnd(GetMousePos());
+            if (curPoint == 1)
+            {
+                SetStartPointEnd(ref startPointLine, GetMousePos(), startPoint, ref direction, ref startPointSet);
+            }
+            if (curPoint == 2)
+            {
+                SetStartPointEnd(ref startPoint2Line, GetMousePos(), startPoint2, ref direction2, ref startPoint2Set);
+            }
         }
     }
 
@@ -86,6 +126,11 @@ public class BoardBuilder : MonoBehaviour
 
     private void CreateNewLine()
     {
+        if(lines.Count > 0 && lines.Last().PointsCount == 0)
+        {
+            return;
+        }
+
         lines.Add(Instantiate(linePrefab, transform));
         lines.Last().Init(lineColor);
     }
@@ -95,35 +140,54 @@ public class BoardBuilder : MonoBehaviour
         lines.Last().AddPoint(point);
     }
 
-    private void SetStartPointBeg(Vector2 point)
+    private void SetStartPointBeg(Vector2 point, ref Vector2 startPoint)
     {
-        StartPoint = point;
+        startPoint = point;
     }
 
-    private void SetStartPointEnd(Vector2 point)
+    private void SetStartPointEnd(ref DotTail line, Vector2 point, Vector2 startPoint, ref Vector2 direction, ref bool startPointSet)
     {
-        Direction = (point - StartPoint).normalized;
-        CreateStartPointLine();
+        direction = (point - startPoint).normalized;
+        CreateStartPointLine(ref line, startPoint, direction, ref startPointSet);
     }
 
-    private void DestroyStartPointLine()
+    private void DestroyStartPointLine(ref DotTail line)
     {
-        if (startPointLine != null)
+        if (line != null)
         {
-            Destroy(startPointLine.gameObject);
+            Destroy(line.gameObject);
         }
-        startPointLine = null;
+        line = null;
     }
 
-    private void CreateStartPointLine()
+    private void CreateStartPointLine(ref DotTail line, Vector2 startPoint, Vector2 direction, ref bool startPointSet)
     {
-        DestroyStartPointLine();
-        startPointLine = Instantiate(linePrefab, transform);
-        startPointLine.Init(startPointColorBeg);
-        startPointLine.SetEndColor(startPointColorEnd);
-        startPointLine.AddPoint(StartPoint);
-        startPointLine.AddPoint(StartPoint + Direction);
-        StartPointSet = true;
+        DestroyStartPointLine(ref line);
+        line = Instantiate(linePrefab, transform);
+        line.Init(startPointColorBeg);
+        line.SetEndColor(startPointColorEnd);
+        line.AddPoint(startPoint);
+        line.AddPoint(startPoint + direction);
+        startPointSet = true;
+    }
+
+    private void MakeVertSymmetry(ref Vector2 vec)
+    {
+        vec.x = -vec.x;
+    }
+
+    public void MakeVertSymmetry()
+    {
+        DotTail[] lines = GetComponentsInChildren<DotTail>();
+        foreach(var line in lines)
+        {
+            line.MakeVertSymmetry();
+        }
+
+        MakeVertSymmetry(ref startPoint);
+        MakeVertSymmetry(ref startPoint2);
+        MakeVertSymmetry(ref direction);
+        MakeVertSymmetry(ref direction2);
     }
 
 }
