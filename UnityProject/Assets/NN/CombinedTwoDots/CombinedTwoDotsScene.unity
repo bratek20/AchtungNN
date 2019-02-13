@@ -240,7 +240,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1028628678418506, guid: ecf52845fe4703e4e93eb4ca43b481d7, type: 2}
       propertyPath: m_Name
-      value: Dot (1)
+      value: BlueDot
       objectReference: {fileID: 0}
     - target: {fileID: 1028628678418506, guid: ecf52845fe4703e4e93eb4ca43b481d7, type: 2}
       propertyPath: m_IsActive
@@ -703,7 +703,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b557a1097b4818e439c78f2568ba740b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  brain: {fileID: 11400000, guid: eb59269b52ab036428d10b910f17d339, type: 2}
+  brain: {fileID: 11400000, guid: c019a5ffc22a9954b8685e1a0b259dfc, type: 2}
   agentParameters:
     agentCameras:
     - {fileID: 849272583}
@@ -771,6 +771,14 @@ Prefab:
       propertyPath: m_Layer
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 1028628678418506, guid: ecf52845fe4703e4e93eb4ca43b481d7, type: 2}
+      propertyPath: m_Name
+      value: RedDot
+      objectReference: {fileID: 0}
+    - target: {fileID: 1028628678418506, guid: ecf52845fe4703e4e93eb4ca43b481d7, type: 2}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 114405312421953422, guid: ecf52845fe4703e4e93eb4ca43b481d7, type: 2}
   m_ParentPrefab: {fileID: 100100000, guid: ecf52845fe4703e4e93eb4ca43b481d7, type: 2}
@@ -797,7 +805,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b557a1097b4818e439c78f2568ba740b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  brain: {fileID: 11400000, guid: 8494170a838224f489ea6a004f2fc1ca, type: 2}
+  brain: {fileID: 11400000, guid: 3ecce56b26b9a124980a117b1b13e672, type: 2}
   agentParameters:
     agentCameras:
     - {fileID: 1983076200}
@@ -904,7 +912,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   broadcastHub:
     broadcastingBrains:
-    - {fileID: 11400000, guid: 8494170a838224f489ea6a004f2fc1ca, type: 2}
+    - {fileID: 11400000, guid: c019a5ffc22a9954b8685e1a0b259dfc, type: 2}
+    - {fileID: 11400000, guid: 3ecce56b26b9a124980a117b1b13e672, type: 2}
     _brainsToControl:
     - {fileID: 11400000, guid: 7ad80184355c3e841bf530a33a0a8ab6, type: 2}
   maxSteps: 0
@@ -925,9 +934,21 @@ MonoBehaviour:
   board: {fileID: 568109587}
   steps: 0
   options:
-  - BuilderPrefab: {fileID: 114324979839727822, guid: 4fa7e131806032c4cae2fb3548fb1d7d,
+  - BuilderPrefab: {fileID: 114173014077890024, guid: d13c0825f69d6404eaf28922a3acb1be,
       type: 2}
-    StepsK: 100
+    StepsK: 0
+    SymType: 2
+  - BuilderPrefab: {fileID: 114075425958789036, guid: 0a1e9002a85122141b1484f714cabe08,
+      type: 2}
+    StepsK: 0
+    SymType: 2
+  - BuilderPrefab: {fileID: 114323218516167588, guid: 170b760a8bbb28840925210b255fe122,
+      type: 2}
+    StepsK: 0
+    SymType: 2
+  - BuilderPrefab: {fileID: 114040981356512642, guid: 40093b9c932d5e94599d1b3a34487ea1,
+      type: 2}
+    StepsK: 11
     SymType: 2
   emptyPrefab: {fileID: 114678253443932662, guid: f7f3859a0c2289d47a5306e1c7a4fdf1,
     type: 2}
